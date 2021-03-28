@@ -5,3 +5,6 @@
 ---
 
 ![](Tailwind-cheatsheet.png)
+
+
+Thanks to [Umesh Kadam](https://github.com/umeshmk) for the backbones of this project.
